@@ -16,7 +16,10 @@ You're absolutely right! Here's everything in a single markdown file with the sc
 
 | **Start Screen** | **Loaded Image** | **In Progress** |
 |:----------------:|:----------------:|:---------------:|
-| ![Start Screen](demo1.png) | ![Loaded Image](demo2.png) | ![Game in Progress](demo3.png) |
+| ![Start Screen](<img width="1222" height="958" alt="demo1" src="https://github.com/user-attachments/assets/1ce7ecd3-27dc-4703-9054-2d48bfb9a785" />
+) | ![Loaded Image](<img width="1227" height="952" alt="demo2" src="https://github.com/user-attachments/assets/02e30420-3bb5-4e6e-a85d-7e3c9171eb6a" />
+) | ![Game in Progress](<img width="1220" height="977" alt="demo3" src="https://github.com/user-attachments/assets/362aa20a-f943-4192-877d-1389c077ccf7" />
+) |
 
 *Left: Initial state with no image loaded | Center: Image loaded, ready to start | Right: Active puzzle with timer running*
 
