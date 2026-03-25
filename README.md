@@ -1,4 +1,3 @@
-```markdown
 # 🧩 Puzzlify – Image Puzzle Tool
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -7,16 +6,6 @@
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
 
 **Puzzlify** transforms any image into an interactive swap-tile puzzle. Load your favorite photo, scramble the pieces, and race against the clock to restore the original image. Perfect for brain training or just relaxing with a visual challenge.
-
----
-
-## 📸 Screenshots
-
-| **Start Screen** | **Loaded Image** | **In Progress** |
-|:----------------:|:----------------:|:---------------:|
-| ![Start Screen](demo1.png) | ![Loaded Image](demo2.png) | ![Game in Progress](demo3.png) |
-
-*Left: Initial state with no image loaded | Center: Image loaded, ready to start | Right: Active puzzle with timer running*
 
 ---
 
