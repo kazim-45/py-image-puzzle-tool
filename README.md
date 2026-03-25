@@ -1,5 +1,3 @@
-You're absolutely right! Here's everything in a single markdown file with the screenshots properly embedded:
-
 ```markdown
 # 🧩 Puzzlify – Image Puzzle Tool
 
@@ -16,10 +14,7 @@ You're absolutely right! Here's everything in a single markdown file with the sc
 
 | **Start Screen** | **Loaded Image** | **In Progress** |
 |:----------------:|:----------------:|:---------------:|
-| ![Start Screen](<img width="1222" height="958" alt="demo1" src="https://github.com/user-attachments/assets/1ce7ecd3-27dc-4703-9054-2d48bfb9a785" />
-) | ![Loaded Image](<img width="1227" height="952" alt="demo2" src="https://github.com/user-attachments/assets/02e30420-3bb5-4e6e-a85d-7e3c9171eb6a" />
-) | ![Game in Progress](<img width="1220" height="977" alt="demo3" src="https://github.com/user-attachments/assets/362aa20a-f943-4192-877d-1389c077ccf7" />
-) |
+| ![Start Screen](demo1.png) | ![Loaded Image](demo2.png) | ![Game in Progress](demo3.png) |
 
 *Left: Initial state with no image loaded | Center: Image loaded, ready to start | Right: Active puzzle with timer running*
 
@@ -197,9 +192,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 👨‍💻 Author
 
 **Your Name**  
-- Portfolio: [kazimportfolio](https://kazimportfolio.vercel.app)  
-- GitHub: [kazim-45](https://github.com/kazim-45)  
-- Project Link: [github.com/kazim-45/puzzlify](https://github.com/kazim-45/puzzlify)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- GitHub: [@yourusername](https://github.com/yourusername)  
+- Project Link: [github.com/yourusername/puzzlify](https://github.com/yourusername/puzzlify)
 
 ---
 
@@ -219,3 +214,4 @@ It helps others discover the project and motivates further development.
 ---
 
 *Made with 🧩 and ☕*
+Just save this as `README.md` in your project root, and GitHub will automatically render it beautifully with all the formatting and images. The screenshots will display inline as long as the image files (`demo1.png`, `demo2.png`, `demo3.png`) are in the same directory.
