@@ -180,10 +180,10 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-**Your Name**  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- Project Link: [github.com/yourusername/puzzlify](https://github.com/yourusername/puzzlify)
+**KAZIM KHAN**  
+- Portfolio: [kazimportfolio](https://kazimportfolio.vercel.app)  
+- GitHub: [kazim-45](https://github.com/kazim-45)  
+- Project Link: [github.com/kazim-45/puzzlify](https://github.com/kazim-45/puzzlify)
 
 ---
 
@@ -203,4 +203,3 @@ It helps others discover the project and motivates further development.
 ---
 
 *Made with 🧩 and ☕*
-Just save this as `README.md` in your project root, and GitHub will automatically render it beautifully with all the formatting and images. The screenshots will display inline as long as the image files (`demo1.png`, `demo2.png`, `demo3.png`) are in the same directory.
